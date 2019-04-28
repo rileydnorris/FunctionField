@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FunctionField_Example' do
+  pod 'FunctionField', :path => '../'
+
+  target 'FunctionField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
