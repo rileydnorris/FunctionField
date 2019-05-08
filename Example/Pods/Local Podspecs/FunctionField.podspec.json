@@ -1,0 +1,22 @@
+{
+  "name": "FunctionField",
+  "version": "0.1.0",
+  "summary": "A short description of FunctionField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rileydnorris/FunctionField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rileydnorris": "rileydnorris@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rileydnorris/FunctionField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FunctionField/Classes/**/*"
+}

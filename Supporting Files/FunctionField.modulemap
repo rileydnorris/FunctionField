@@ -1,0 +1,6 @@
+framework module FunctionField {
+  umbrella header "FunctionField-umbrella.h"
+
+  export *
+  module * { export * }
+}

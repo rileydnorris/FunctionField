@@ -1,0 +1,16 @@
+PODS:
+  - FunctionField (0.1.0)
+
+DEPENDENCIES:
+  - FunctionField (from `../`)
+
+EXTERNAL SOURCES:
+  FunctionField:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FunctionField: f2f5938b110a822636af94fae1c29e6b4d53445a
+
+PODFILE CHECKSUM: 27da519b8c1b6e11e125863e5f7562328c05c199
+
+COCOAPODS: 1.4.0
